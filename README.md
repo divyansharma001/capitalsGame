@@ -2,6 +2,13 @@
 
 Welcome to the Capital Game repository! This project is a web application that challenges users to test their knowledge of world capitals. Users are provided with a country, and they must input the correct capital to earn points. The application is built using EJS for the frontend, Node.js with Express for the backend, and PostgreSQL as the database.
 
+
+https://github.com/divyansharma001/capitalsGame/assets/140371139/47cfafbb-ff77-45f7-9d2e-c8544cac6e8b
+
+
+
+
+
 ## Table of Contents
 
 - [Features](#features)
